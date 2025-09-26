@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+   
+
+  body {
+    background-color: rgb(32, 32, 32);
+  }
+  h1{
+    color: yellow;
+  }
+  h4{color: yellow;}
+  table{
+    border-style:double; color: rgb(0, 0, 0);
+  }
+  table{
+    background-color: black;
+  }
+
+</style>
+ <div style="text-align: center;"></div>
+
+<table>
+
+    
+
+ <tr>
+    <td>
+        <img src="../puntos-extras-pagina-NFL/img/los aceros de pittsburgh.webp" width="200" height="200"
+
+    </td>
+    <td>
+        <h1>Los Equipos Mas 
+            <br> Ganadores Del
+            <br>  Super Bowl</h1>
+
+    </td>
+    <td>
+        <img src="../puntos-extras-pagina-NFL/img/england patriots.jpg" width="200" height="200"
+
+    </td>
+ </tr>
+ <tr>
+    <td>
+        <h4>
+            los Aceros de pitsburg fue el primer
+            <br> equipo en lograr 6 triunfos en el 
+            <br>super bowl(1975,1976, 1979, 1980,
+             <br> 2006 
+           y 2009).
+        </h4>
+    </td>
+    <td>
+        <p>
+            <hr>
+        </p>
+        <h4>
+                (ganadores de 3 o mas trofeso vice lombardi)
+             </h4>
+
+    </td>
+    <td>
+        <h4>
+         los patriotas de new england es el
+        <br>segundo equipo en lograr los 6 triunfos
+        <br> en el superbowl(2002,2004,2005,2015
+        <br> y 2017, 2019)
+    </h4>
+
+    </td>
+ </tr>
+</table>
+</div>
+<div style="text-align: center;">
+    <audio src="../puntos-extras-pagina-NFL/img/nfl.mp3" autoplay loop controls>
+
+    </audio>
+</div>
+
+<style>
+    body {
+    background-color: rgb(32, 32, 32);
+  }
+  h1{
+    color: yellow;
+  }
+  h3{color: yellow;}
+  table{
+    border-style:double; color: rgb(0, 0, 0);
+  }
+  table{
+    background-color: black;
+  }
+  hr{border: 0cap;}
+</style>
+
+<table>
+
+    <tr>
+      <td>
+     <img src="../puntos-extras-pagina-NFL/img/dallas_h.jpg" width="200" height="200"
+    </td>
+    <td>
+        <img src="../puntos-extras-pagina-NFL/img/49s_h.jpg" width="200" height="200"
+    </td>
+    <td>
+        <img src="../puntos-extras-pagina-NFL/img/packers_h.jpg" width="200" height="200"
+
+    </td>
+    <td>
+        <img src="../puntos-extras-pagina-NFL/img/gigants_h.jpg" width="200" height="200"
+    </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>
+            1972,1978,1993,1994 y 1996
+        </h3>
+      </td>
+      <td>
+        <h3>
+            1982,1985, 1989,1990 y 1995
+        </h3>
+      </td>
+    
+      <td>
+        <h3>
+            1967, 1968, 1997 y 2011
+        </h3>
+      </td>
+      <td>
+        <h3>
+            1987,1991,2008 y 2012
+        </h3>
+      </td>
+      <td>
+
+      </td>
+    </tr>
+    
+
+</table>
+<p>
+    <hr>
+</p>
+<h3>
+    ¿quieres conocer mas? visita:<a href="www.nfl.com">www.nfl.com</a>
+     
+</h3>
+
+<p>
+    <hr>
+</p>
+<h4>datos del alumno: Angel Emilio Cid Villarreal</h4>
+
+    
+
+
+</body>
+</html>
